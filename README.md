@@ -1,4 +1,4 @@
-# reading-list
+# group-reading-list
 
 
 
